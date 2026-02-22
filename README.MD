@@ -23,7 +23,7 @@ A Python-based CLI application that allows users to interact with local LLMs via
 1. Clone the repository.
 2. Install the required dependencies:
    ```bash
-   pip install requests duckduckgo-search
+   pip install -r requirements.txt
    ```
 
 ## Usage
